@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background: -webkit-linear-gradient(70deg, rgb(120, 135, 220), rgba(210, 169, 222, 0.324), rgb(191, 177, 201));
+    padding-bottom: 60px;
+}
+
+h1, h2, h3, h4, p, ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+button {
+    border: none;
+}
+input{
+    outline: none;
+}
